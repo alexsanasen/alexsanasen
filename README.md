@@ -1,7 +1,6 @@
 # Hi I'm Alex 👋
 
-I’m Alex Sanasen an certified SAP Analyst with a passion for problem-solving.
-I just started my coding journey and fell in love with Python
+I’m Alex Sanasen. I just started my coding journey and fell in love with Python
 
 - 📫 Contact me: alex.sanasen@gmail.com
 
