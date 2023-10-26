@@ -1,4 +1,4 @@
-## Hi I'm Alex Sanasen ![Alt Text](https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif)
+## Hi I'm Alex Sanasen 👋
 
 - 💼 I'm a certified SAP SCM Analyst with a passion for problem-solving
 - 🌱 I just started my coding journey and fell in love with Python
